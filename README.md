@@ -1,4 +1,4 @@
-# Financial-Data-Analysis
+# Financial-Data-Analytics
 End-to-end Financial Statement Analysis using Excel — includes data cleaning, ratio analysis, forecasting, and prescriptive modeling to simulate real-world financial analyst work.
 .
 
@@ -88,14 +88,5 @@ Communication
 This Excel model replicates a real-world financial analysis workflow, turning raw financial data into executive-level insights.
 It’s designed to demonstrate analytical, problem-solving, and financial modeling skills for a Financial Analyst portfolio.
 
-## 🧠 Author
 
-#### Jayakrishna R
 
-📍 Financial Analyst (Portfolio Project)
-
-📧 Email : rjayakrishna37@gmail.com
-
-LinkedIn : https://www.linkedin.com/in/jayakrishna-r-5a19b925b
-
-📂 GitHub: https://github.com/jai0311
